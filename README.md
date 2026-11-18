@@ -1,15 +1,17 @@
-# Hi, I'm Muhammad Rehan Mansha 👋
 
-### Self-Taught Developer | E-commerce Enthusiast | Digital Creator
 
-I’m an independent learner exploring the world of technology, software development, and online business. I enjoy turning ideas into practical digital projects, experimenting with modern tools, and continuously developing new skills.
+\<h3 align="center">Self-Taught Developer | E-commerce Enthusiast | Digital Creator\</h3>
 
-My journey combines two interests: **building digital products through technology** and **creating opportunities through e-commerce.**
+\<p align="center">
+&#x20; I'm an independent learner exploring the world of technology, software development, and online business. I enjoy turning ideas into practical digital projects, experimenting with modern tools, and continuously developing new skills.
+\</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/M-Rehan-Mansha/Portfolio)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/M-Rehan-Mansha)
+\<p align="center">   My journey combines two interests: \<strong>building digital products through technology\</strong> and \<strong>creating opportunities through e-commerce.\</strong> \</p>
+
+\<p align="center">   \<a href="[https://github.com/M-Rehan-Mansha/Portfolio](https://github.com/M-Rehan-Mansha/Portfolio)">     \<img src="[https://img.shields.io/badge/Portfolio-Visit-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-Visit-38bdf8?style=for-the-badge\&logo=googlechrome\&logoColor=white)" alt="Portfolio">   \</a>   \<a href="[https://github.com/M-Rehan-Mansha](https://github.com/M-Rehan-Mansha)">     \<img src="[https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub">   \</a> \</p>
 
 ---
+
 
 ## 🚀 About Me
 
