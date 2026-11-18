@@ -1,14 +1,27 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=70&lines=Hi%2C+I'm+Muhammad+Rehan+Mansha+%F0%9F%91%8B" alt="Hi, I'm Muhammad Rehan Mansha" />
+</p>
 
+<h3 align="center">
+  Self-Taught Developer <span>•</span> E-commerce Enthusiast <span>•</span> Digital Creator
+</h3>
 
-\<h3 align="center">Self-Taught Developer | E-commerce Enthusiast | Digital Creator\</h3>
+<p align="center">
+  Exploring technology, building digital experiences, and creating opportunities through online business.
+</p>
 
-\<p align="center">
-&#x20; I'm an independent learner exploring the world of technology, software development, and online business. I enjoy turning ideas into practical digital projects, experimenting with modern tools, and continuously developing new skills.
-\</p>
+<p align="center">
+  I'm a self-taught learner with a passion for software development and e-commerce. I enjoy turning ideas into practical projects, experimenting with modern technologies, and continuously expanding my skills.
+</p>
 
-\<p align="center">   My journey combines two interests: \<strong>building digital products through technology\</strong> and \<strong>creating opportunities through e-commerce.\</strong> \</p>
-
-\<p align="center">   \<a href="[https://github.com/M-Rehan-Mansha/Portfolio](https://github.com/M-Rehan-Mansha/Portfolio)">     \<img src="[https://img.shields.io/badge/Portfolio-Visit-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-Visit-38bdf8?style=for-the-badge\&logo=googlechrome\&logoColor=white)" alt="Portfolio">   \</a>   \<a href="[https://github.com/M-Rehan-Mansha](https://github.com/M-Rehan-Mansha)">     \<img src="[https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub">   \</a> \</p>
+<p align="center">
+  <a href="https://github.com/M-Rehan-Mansha/Portfolio">
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/M-Rehan-Mansha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
